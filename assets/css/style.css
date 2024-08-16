@@ -38,6 +38,10 @@ body {
   background-color: #926239;
 }
 
+.additional-bg-color {
+  background-color: #f4f4f4;
+}
+
 .header {
   background-image: url('../image/beach.jpg');
   background-size: cover;
